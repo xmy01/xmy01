@@ -1,2 +1,3 @@
 module hitwh
+  hitwh
 endmodule
